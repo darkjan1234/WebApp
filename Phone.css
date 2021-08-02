@@ -1,3 +1,7 @@
+.navbar ul{
+    flex-wrap: wrap;
+    justify-content: center;
+}
 #home{
     height: 820px;
 }
